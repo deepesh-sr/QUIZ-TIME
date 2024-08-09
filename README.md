@@ -1,5 +1,5 @@
-## Quiz Site
+# Quiz Site
 **Basic quiz platform**
-# To Do :
+## To Do :
 1. Add a better UI
 2. Making it multiplayer
